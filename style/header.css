@@ -1,0 +1,16 @@
+@import url(function.css);
+
+header{
+    width: 100%;
+    background-color: black;
+    padding: 20px 190px;
+}
+img{
+    width: 80px;
+}
+ul{
+    display: flex;
+}
+ul > li{
+    background-color: #9E0910;
+}
